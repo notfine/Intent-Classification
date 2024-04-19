@@ -1,0 +1,693 @@
+Intents,Text
+i_am_not_able_to_see_my_direct_reportees,i am not able to see my direct reportees
+i_am_not_able_to_see_my_direct_reportees,I cannot see my direct reportees
+i_am_not_able_to_see_my_direct_reportees,I cant see my direct reportees
+i_am_not_able_to_see_my_direct_reportees,my direct reportees are not visible to me
+i_am_not_able_to_see_my_direct_reportees,I can not view my direct reportees
+i_am_not_able_to_see_my_direct_reportees,I am not able to see reportees which are directly reporting to me
+i_am_not_able_to_see_my_direct_reportees,I cant see reportees which are directly reporting to me
+i_am_not_able_to_see_my_direct_reportees,I can not spot reportees which are directly reporting to me
+i_am_not_able_to_see_my_direct_reportees,reportees which are directly reporting to me are not visible to me
+i_am_not_able_to_see_my_direct_reportees,i am not able to spot my direct reportees
+i_am_not_able_to_see_my_direct_reportees,i am not able to view my direct reportees
+bot_greets_thank_you,i appreciate your feedback
+bot_greets_thank_you,i really grateful for your help
+bot_greets_thank_you,thank you
+bot_greets_thank_you,it means a lot
+bot_greets_thank_you,thank you for guidance
+bot_greets_thank_you,thanks
+bot_greets_thank_you,i am grateful for your assistance
+bot_greets_thank_you,thank you for prompt reply
+bot_greets_thank_you,thanks for having my back
+bot_greets_thank_you,i really want to thank you for help
+bot_greets_thank_you,thanks so much
+bot_greets_thank_you,thanks a million
+bot_greets_thank_you,thank you for your time
+bot_greets_thank_you,this means a lot to me
+bot_greets_thank_you,thanks for explaining this to me
+bot_greets_thank_you,thank you for your favour
+bot_greets_thank_you,how thoughtful of you
+bot_greets_thank_you,thank you for taking some time
+bot_greets_thank_you,you made my day
+bot_greets_thank_you,i really appreciate everything you have done
+bot_greets_thank_you,i owe you one
+bot_greets_thank_you,thanks for being a great help
+not_showing_in_my_work_application,not showing in my work application
+not_showing_in_my_work_application,Features created in Rational is not showing in My work application
+not_showing_in_my_work_application,Feature created in Rational is not showing in My work application
+not_showing_in_my_work_application,Features created in JIRA is not showing in My work application
+not_showing_in_my_work_application,Feature created in JIRA is not showing in My work application
+not_showing_in_my_work_application,Work item created in Rational is not showing in My work application
+not_showing_in_my_work_application,Work Item created in JIRA is not showing in My work application
+not_showing_in_my_work_application,Features which are created in Rational are not visible in My work application
+not_showing_in_my_work_application,Features which are created in jira is not visible in My work application
+not_showing_in_my_work_application,Work item created in Rational is not showing in My work app
+not_showing_in_my_work_application,Work Item which are created in jira is not visible in My work application
+not_showing_in_my_work_application,Features created in Rational is not displayed in My work app
+not_showing_in_my_work_application,Features created in JIRA is not displyed in My work application
+not_showing_in_my_work_application,Work item created in rational is not in there in My work app
+not_showing_in_my_work_application,Work Item created in JIRA are not in the My work app
+not_showing_in_my_work_application,I can not see the features that are created in rational in my work app
+not_showing_in_my_work_application,I am not able to see the features that are created in jira in my work app
+not_showing_in_my_work_application,Features that are created in rational is not showing in my work app
+not_showing_in_my_work_application,Features that created in JIRA is not showing in My work app
+not_showing_in_my_work_application,Work item that are created in Rational is not showing in My work app
+not_showing_in_my_work_application,Work Item that are created in jira is not showing in my work application
+not_showing_in_my_work_application,what if features created in jira that isnt showing in my work application
+happy_new_year,wish you a very pleasing new year
+happy_new_year,wish you and your family a great new year
+happy_new_year,may your year be fulfilled with joy
+happy_new_year,wish you a great year
+happy_new_year,very happy new year
+happy_new_year,happy new year hellojio
+bot_greets_hello,hey cora
+bot_greets_hello,hi cora
+bot_greets_hello,hello cora
+bot_greets_hello,hi
+bot_greets_hello,hello
+bot_greets_hello,hi assistant cora
+bot_greets_hello,hello there
+bot_greets_hello,hello whats up
+bot_greets_hello,hey
+bot_greets_hello,hey there
+bot_greets_hello,hi there
+bot_greets_hello,hola whats up
+bot_greets_hello,say hello
+bot_greets_hello,say hi
+bot_greets_hello,wassup
+bot_greets_hello,well hello there
+bot_greets_hello,whats up
+bot_greets_hello,hello dear sir
+bot_greets_hello,hay
+bot_greets_hello,bot hey
+bot_greets_hello,hi bot
+bot_greets_hello,heya
+bot_greets_hello,yo wassup
+bot_greets_hello,whats up my lady
+bot_greets_hello,hello my work
+bot_greets_hello,whats up my darling
+bot_greets_hello,hello my wife
+bot_greets_hello,whats up man
+bot_greets_hello,whats up girl
+bot_greets_hello,whats up dude
+bot_greets_hello,whats up bro
+bot_greets_hello,what is up with you
+bot_greets_hello,wassup with you
+bot_greets_hello,wassup my lady
+bot_greets_hello,wassup man
+bot_greets_hello,wassup lady
+bot_greets_hello,wassup girl
+bot_greets_hello,howdy babes
+bot_greets_hello,howdy babe
+bot_greets_hello,hi man
+bot_greets_hello,hi lady
+bot_greets_hello,hi hello
+bot_greets_hello,hi dear
+bot_greets_hello,hey whats up man
+bot_greets_hello,hey whats up dude
+bot_greets_hello,hey whats up bro
+bot_greets_hello,hey whats up
+bot_greets_hello,hey man
+bot_greets_hello,hey baby
+bot_greets_hello,hello pagal
+bot_greets_hello,hello hello hello
+bot_greets_hello,hello dear
+bot_greets_hello,hello assistant
+how_to_view_direct_reportees_timesheet,how to view direct reportees timesheet
+how_to_view_direct_reportees_timesheet,how to see direct reportees timesheet
+how_to_view_direct_reportees_timesheet,how can one view direct reportees timesheet
+how_to_view_direct_reportees_timesheet,I want to view direct reportees timesheet how can I do that
+how_to_view_direct_reportees_timesheet,how can I see direct reportees timesheet
+how_to_view_direct_reportees_timesheet,how will I be able to view timesheet of my direct reportees
+how_to_view_direct_reportees_timesheet,how to view timesheet of reportees which are directly reporting to me
+how_to_view_direct_reportees_timesheet,I want to view timesheet of reportees which are directly reporting to me how can I do that
+how_to_view_direct_reportees_timesheet,how to see timesheet of reportees which are directly reporting
+how_to_view_direct_reportees_timesheet,how to view timesheet of direct reportees
+how_to_view_direct_reportees_timesheet,show me the time sheet of direct reportees
+how_to_view_direct_reportees_timesheet,if a direct reportees timesheet viewed
+bot_good_day,hope you have a pleasant day
+bot_good_day,what a nice day
+bot_good_day,i hope you are having a good day
+bot_good_day,hope your day goes well
+bot_good_day,have a great day ahead
+bot_good_day,I just want to say good day to you
+bot_good_day,have a good day
+bot_good_day,good day
+bot_good_day,wish you a good day
+who_can_transfer_a_work_item,who can transfer a work item
+who_can_transfer_a_work_item,can I transfer a work item
+who_can_transfer_a_work_item,who is able to transfer a work item
+who_can_transfer_a_work_item,who has the permission to transfer a work item
+who_can_transfer_a_work_item,I want to transfer a work item who is authorized to do that
+who_can_transfer_a_work_item,who will be able to transfer a work item
+who_can_transfer_a_work_item,who is permitted to transfer a work item
+who_can_transfer_a_work_item,who could transfer a work item
+who_can_transfer_a_work_item,is anybody allowed to transfer work item
+who_can_transfer_a_work_item,who can handover a work item
+who_can_transfer_a_work_item,who can pass on a work item
+what_is_feature_id_already_in_use_error,what is feature id already in use error
+what_is_feature_id_already_in_use_error,I am getting an error feature id already in use what is that
+what_is_feature_id_already_in_use_error,error is showing as feature id already in use what is that about
+what_is_feature_id_already_in_use_error,why I am getting the error feature id already in use
+what_is_feature_id_already_in_use_error,for which reason I am getting error feature id already in use
+what_is_feature_id_already_in_use_error,what is the error feature id already in use
+what_is_feature_id_already_in_use_error,can you tell me about what is error feature id already in use
+what_is_feature_id_already_in_use_error,please brief me about feature id already in use error
+what_is_feature_id_already_in_use_error,give me some information about error feature id already in use
+what_is_feature_id_already_in_use_error,tell me what is the error feature id already in use means
+what_is_feature_id_already_in_use_error,what is the meaning of error feature id already in use
+what_is_feature_id_already_in_use_error,what is the meaning of feature id already in use error
+can_i_apply_for_leaves,does my work allow to mark leaves for future dates
+can_i_apply_for_leaves,can we apply for future date leaves
+can_i_apply_for_leaves,I want to apply for future date leaves
+can_i_apply_for_leaves,is it possible to apply for future date leaves in my work
+can_i_apply_for_leaves,can I apply for future date leaves in my work
+can_i_apply_for_leaves,in my work can I apply leaves for future date
+can_i_apply_for_leaves,need to apply leaves for future date in my work
+can_i_apply_for_leaves,should I have authority to apply leaves for future date
+can_i_apply_for_leaves,please tell me can we apply for future date leaves in my work
+can_i_apply_for_leaves,can I apply leaves for future date from my work
+can_i_apply_for_leaves,can we apply for advance leaves in my work
+can_i_apply_for_leaves,I want to apply for advance leaves in my work
+can_i_apply_for_leaves,is it possible to apply for advance leaves in my work
+can_i_apply_for_leaves,can I apply for advance leaves in my work
+can_i_apply_for_leaves,in my work can I apply for advance leaves
+can_i_apply_for_leaves,need to apply for advance leaves in my work
+can_i_apply_for_leaves,should I have authority to apply for advance leaves in my work
+can_i_apply_for_leaves,please tell me can we apply for advance leaves in my work
+can_i_apply_for_leaves,can advance leaves applied from my work
+can_i_apply_for_leaves,is it possible in my work to apply for advance leaves
+can_i_apply_for_leaves,am i allowed to apply leaves
+can_i_apply_for_leaves,can we apply leaves in advance
+can_i_apply_for_leaves,can we apply advance leave
+can_i_apply_for_leaves,can we apply future leave
+can_i_apply_for_leaves,How to apply for advance leaves in My Work?
+can_i_apply_for_leaves,Where can I apply the advance leaves from?
+can_i_apply_for_leaves,how to request for advance leaves in my work
+can_i_apply_for_leaves,how to appeal for advance leaves in my work
+can_i_apply_for_leaves,in my work how one can apply for advance leaves
+can_i_apply_for_leaves,if I want to apply for advance leave how can I do that
+can_i_apply_for_leaves,please help me to apply for leave in advance using my work
+can_i_apply_for_leaves,do you know how to claim advance leaves in my work
+can_i_apply_for_leaves,where should I apply for advance leave
+can_i_apply_for_leaves,to apply for advance leaves where should I go
+can_i_apply_for_leaves,what will be the procedure to apply for advance leave
+can_i_apply_for_leaves,where one should go to apply for advance leaves
+can_i_apply_for_leaves,what process one must follow to apply advance leaves
+can_i_apply_for_leaves,I want to apply for leaves in advance please help me out
+can_i_apply_for_leaves,please guide me where should I go to apply for an advance leave
+can_i_apply_for_leaves,I want to apply for leaves in advance where can I do that
+can_i_apply_for_leaves,I want to apply for advance leave where should I go
+can_i_apply_for_leaves,Whom can I apply advance leaves for
+can_i_apply_for_leaves,for whom i can apply advance leaves
+can_i_apply_for_leaves,can i apply advance leaves for my colleague
+can_i_apply_for_leaves,can i apply advance leaves for my friend
+can_i_apply_for_leaves,want to apply adavnce leave for my colleague
+can_i_apply_for_leaves,is it possible to apply advance leave for my friend
+can_i_apply_for_leaves,can I apply advance leave for other employee
+can_i_apply_for_leaves,should I have an authority to apply advance leaves for anyone in company
+can_i_apply_for_leaves,can I apply advance leave for anyone in company
+can_i_apply_for_leaves,how to apply for advance leave of my friend
+can_i_apply_for_leaves,Can I apply advance leaves on behalf of my direct reports
+can_i_apply_for_leaves,is it applicable for me to apply leaves on behalf of my direct reportees
+can_i_apply_for_leaves,is it applicable for me to apply advance leaves on behalf of my direct reportees
+can_i_apply_for_leaves,Can I apply advance leaves on behalf of employees reporting to me
+can_i_apply_for_leaves,want to apply advance leaves behalf of my reportee
+can_i_apply_for_leaves,can i apply advance leaves for employee reporting to me
+can_i_apply_for_leaves,want to apply leaves for employees those directly reporting in to you
+can_i_apply_for_leaves,for employee those are reporting to me required advance leave can i apply for them
+can_i_apply_for_leaves,i want to apply advance leaves for my employees those are reporting to me
+can_i_apply_for_leaves,it is possible to apply leaves for employees those are reporting to me
+can_i_apply_for_leaves,Can I apply advance leaves on behalf of anybody directly or indirectly reporting in to me?
+can_i_apply_for_leaves,is it possible to apply advance leave for anybody indirectly reporting to me?
+can_i_apply_for_leaves,will I be able to apply advance leave for my direct or indirect reportees
+can_i_apply_for_leaves,want to apply leaves for employees those indirectly reporting to me is it feasible
+unable_to_see_work_items,unable to see work items
+unable_to_see_work_items,Unable to see work item
+unable_to_see_work_items,i am not able to see work items
+unable_to_see_work_items,my work items are not reflecting
+unable_to_see_work_items,why my work items not reflecting
+unable_to_see_work_items,work items are not displaying
+unable_to_see_work_items,Unable to see work items after a certain date
+unable_to_see_work_items,Unable to see work items after a certain time
+unable_to_see_work_items,Unable to see work items after a certain period
+unable_to_see_work_items,unable to see work item before certain date and time period
+unable_to_see_work_items,work items aren't displaying after sometime
+unable_to_see_work_items,some work items aren't there until few days passed
+can_i_assign_my_work_items_to_anyone_in_the_software_organisation,can i assign my work items to anyone in the software organisation
+can_i_assign_my_work_items_to_anyone_in_the_software_organisation,will i be able to assign my work items to anyone in the software organisation
+can_i_assign_my_work_items_to_anyone_in_the_software_organisation,I want to assign my work items to somebody in my organization is this possible
+can_i_assign_my_work_items_to_anyone_in_the_software_organisation,is it possible to assign my work items to my collegue
+can_i_assign_my_work_items_to_anyone_in_the_software_organisation,can I assign my work items to my subordinate in my company
+can_i_assign_my_work_items_to_anyone_in_the_software_organisation,I want to allot my work item to my collegue in the organization will I be able to do it
+can_i_assign_my_work_items_to_anyone_in_the_software_organisation,can i allocate my work items to anyone in the software organisation
+can_i_assign_my_work_items_to_anyone_in_the_software_organisation,can i give my work items to anyone in the software organisation
+can_i_assign_my_work_items_to_anyone_in_the_software_organisation,is it possible to assign my work items to anybody from my organization
+can_i_assign_my_work_items_to_anyone_in_the_software_organisation,can i allot my work items to someone in the software organisation
+can_i_assign_my_work_items_to_anyone_in_the_software_organisation,can i send my work to another in software industry
+bot_compliment_love,love
+bot_compliment_love,love you darling
+bot_compliment_love,i love you
+bot_compliment_love,i have feelings for you
+bot_compliment_love,i love
+bot_compliment_love,love you
+bot_compliment_love,i love u
+bot_compliment_love,i love you from bottom of my heart
+bot_compliment_love,in search of love
+bot_compliment_love,i love you so much
+bot_compliment_love,hello i love you
+bot_greets_good_night,good night ma'am
+bot_greets_good_night,gud nyt
+bot_greets_good_night,good night madam
+bot_greets_good_night,a very good night
+bot_greets_good_night,yaar good night
+bot_greets_good_night,good night mate
+bot_greets_good_night,bro gud night
+bot_greets_good_night,hey good night
+bot_greets_good_night,hi gud night
+bot_greets_good_night,hi gud night boss
+bot_greets_good_night,beautiful good night
+bot_greets_good_night,sir hi gud night
+bot_greets_good_night,bro hey good night
+bot_greets_good_night,darling good night
+bot_greets_good_night,good night
+bot_greets_good_night,babe good night
+bot_greets_good_night,sleep well
+bot_greets_good_night,boss gud night
+bot_greets_good_night,sweet dreams
+bot_greets_good_night,good night bab
+bot_greets_good_night,hi good night
+bot_greets_good_morning,sir have a great morning
+bot_greets_good_morning,sir wishes everyone a beautiful morning
+bot_greets_good_morning,have a great good morning
+bot_greets_good_morning,have a warm good morning
+bot_greets_good_morning,have a amazing morning
+bot_greets_good_morning,that your morning is good
+bot_greets_good_morning,sir have a superb morning
+bot_greets_good_morning,very good morning sir
+bot_greets_good_morning,mr wishes pleasant morning
+bot_greets_good_morning,sir a very good morning
+bot_greets_good_morning,have a magical morning
+bot_greets_good_morning,a very good morning to you
+bot_greets_good_morning,hope you have a great morning
+bot_greets_good_morning,good morning sunny
+bot_greets_good_morning,sir wishes to have a beautiful morning
+bot_greets_good_morning,have a wonderful morning
+bot_greets_good_morning,sir have a fabulous morning
+bot_greets_good_morning,happy morning my dear
+bot_greets_good_morning,wish you a good morning
+bot_greets_good_morning,have a awesome morning
+bot_greets_good_morning,hope you have a good morning
+bot_greets_good_morning,happy morning
+bot_greets_good_morning,have a good morning
+bot_greets_good_morning,have a magnificent morning
+bot_greets_good_morning,good morning to all
+bot_greets_good_morning,greets good morning
+bot_greets_good_morning,have a pleasant morning
+bot_greets_good_morning,have a great morning
+bot_greets_good_morning,good morning my lady
+bot_greets_good_morning,good morning to all my listeners
+bot_greets_good_morning,hope you are enjoying your morning
+bot_greets_good_morning,sir have a beautiful morning
+bot_greets_good_morning,hope your morning is good
+bot_greets_good_morning,gud morning
+bot_greets_good_morning,I wish you have a very good morning
+bot_greets_good_morning,sir have a magical morning
+bot_greets_good_morning,good morning sir
+bot_greets_good_morning,gooood morning
+bot_greets_good_morning,good morning
+bot_greets_good_morning,have a fabulous morning
+bot_greets_good_morning,good morning darling
+bot_greets_good_morning,have a fantastic morning
+bot_greets_good_morning,hey good morning
+bot_greets_good_morning,sir have a mind boggling morning
+bot_greets_good_morning,a very happy good morning
+bot_greets_good_morning,morning greetings
+bot_greets_good_morning,morning sir
+bot_greets_good_morning,good morning everyone
+bot_greets_good_morning,wishing you a very good morning
+bot_greets_good_morning,sir have a awesome morning
+bot_greets_good_morning,sir have a amazing morning
+bot_greets_good_morning,sir wishes pleasant morning
+bot_greets_good_morning,have a beautiful morning
+bot_greets_good_morning,have a mind blowing morning
+bot_greets_good_morning,have a superb morning
+bot_greets_good_morning,wish you have a very happy morning
+bot_greets_good_morning,have a lovely morning
+bot_greets_good_morning,sir good morning
+bot_greets_good_morning,sir have a mind blowing morning
+bot_greets_good_morning,wishes everyone a beautiful morning
+bot_greets_good_morning,sir have a fantastic morning
+bot_greets_good_morning,have a mind boggling morning
+bot_greets_good_morning,with a warm heart good morning
+bot_greets_good_morning,sir have a magnificent morning
+bot_greets_good_morning,pleasant morning
+bot_greets_good_morning,sir have a lovely morning
+bot_greets_good_morning,goood morning
+bot_greets_good_morning,a very good morning
+bot_greets_good_morning,good morning my lovely friend
+can_i_submit_my_timesheet,when should i submit the timesheet?
+can_i_submit_my_timesheet,is it mandatory to submit the weekly timesheet?
+can_i_submit_my_timesheet,is there any time limit for submitting the timesheet
+can_i_submit_my_timesheet,is it compulsory to submit the weekly timesheet
+can_i_submit_my_timesheet,submission of weekly timesheet is mandatory or not
+can_i_submit_my_timesheet,when one can submit the timesheet for week
+can_i_submit_my_timesheet,is it must for employee to submit the weekly timesheet
+can_i_submit_my_timesheet,at what time interval should I submit the timesheet
+can_i_submit_my_timesheet,when it is possible to submit the weekly timesheet
+can_i_submit_my_timesheet,is submission of timesheet must for employee
+can_i_submit_my_timesheet,is it necessory to submit the weekly timesheet?
+can_i_submit_my_timesheet,is it essential to submit the timesheet after a week
+can_i_submit_my_timesheet,is submission of weekly timesheet is obligatory
+can_i_submit_my_timesheet,when it is required that I should submit my weekly timesheet
+can_i_submit_my_timesheet,is it necessary to submit the weekly timesheet
+can_i_submit_my_timesheet,can i submit my timesheet only for a particular day
+can_i_submit_my_timesheet,am I able to submit timesheet for a particular day
+can_i_submit_my_timesheet,I want to submit timesheet for today will I be able to do it
+can_i_submit_my_timesheet,I wish to submit timesheet for a day is it possible
+can_i_submit_my_timesheet,is it allowed to submit timesheet for a specific day
+can_i_submit_my_timesheet,tell me if it is permitted to submit timesheet for a day only
+can_i_submit_my_timesheet,can i submit my timesheet for a time period less than a week
+can_i_submit_my_timesheet,tell me if it is permitted to submit timesheet for particular days
+can_i_submit_my_timesheet,is it possible to submit timesheet for one or more days
+can_i_submit_my_timesheet,please tell me if I can submit my timesheet only for a particular day
+can_i_submit_my_timesheet,Can I submit timesheet with pending approvals
+can_i_submit_my_timesheet,i want to submit timesheet for pending approvals can i do that
+can_i_submit_my_timesheet,what if I have submitted my timesheet only for a particular day
+can_i_submit_my_timesheet,will my timesheet be submitted if my approval is pending
+can_i_submit_my_timesheet,will my timesheet be submitted for a exact day
+can_i_submit_my_timesheet,my timesheet is not approved can i submit it
+bot_happy_birthday,myjio wish you a happy birthday
+bot_happy_birthday,wish you a very happy birthday
+bot_happy_birthday,happy birthday jio
+bot_happy_birthday,wish you a very happy bday jio
+bot_happy_birthday,happy birthday myjio
+bot_happy_birthday,happy bday jio
+bot_happy_birthday,I want to wish you a very happy birthday
+bot_happy_birthday,happy bday
+bot_happy_birthday,Hello jio happy bday
+bot_happy_birthday,wish you a very happy birthday jio
+bot_happy_birthday,Hello jio i want to wish you a very happy birthday
+bot_happy_birthday,Hello jio happy birthday
+bot_happy_birthday,Happy birthday
+bot_happy_birthday,many many happy returns of the day
+how_does_timesheet_submission_work,tell me how to submit a timesheet
+how_does_timesheet_submission_work,how is the process for submitting timesheet
+how_does_timesheet_submission_work,do you know the process of timesheet submission
+how_does_timesheet_submission_work,I would like to know how does timesheet submission work
+how_does_timesheet_submission_work,how can anyone submit timesheet please let us know
+how_does_timesheet_submission_work,let us know how does timesheet submission work?
+how_does_timesheet_submission_work,may I know how does submitting of timesheet happenes
+how_does_timesheet_submission_work,how does submission of timesheet takes place
+how_does_timesheet_submission_work,how is the process of timesheet submission carried out
+how_does_timesheet_submission_work,how does timesheet submission work?
+how_does_timesheet_submission_work,i want to say that timesheet submission works or not
+how_does_timesheet_submission_work,timesheet submissions works or not
+how_does_timesheet_submission_work,can timesheet submission work
+how_does_timesheet_submission_work,can timesheet submission works
+valentines_day,how should i ask out a girl on valentines
+valentines_day,i want to be your valentine
+valentines_day,will you be my valentine
+valentines_day,how people celebrate valentines
+valentines_day,wish you a very pleasing valentine
+valentines_day,i want you to be my valentine
+valentines_day,what is perfect gift for valentines
+valentines_day,best wishes on valentines
+valentines_day,why is valentines celebrated on feb 14
+valentines_day,wish you a very happy valentines day
+valentines_day,happy valentines day
+can_i_mark_the_advance_leaves_directly_in_the_timesheet,is it possible for me to mark the advance leaves directly in the timesheet
+can_i_mark_the_advance_leaves_directly_in_the_timesheet,will I be able to apply the advance leaves directly in the timesheet
+can_i_mark_the_advance_leaves_directly_in_the_timesheet,please tell me whether I can mark the advance leaves directly in the timesheet
+can_i_mark_the_advance_leaves_directly_in_the_timesheet,do you know if am able to mark the advance leaves directly in the timesheet
+can_i_mark_the_advance_leaves_directly_in_the_timesheet,I want to mark the advance leave directly in the timesheet can I do that
+can_i_mark_the_advance_leaves_directly_in_the_timesheet,I wish to mark the advance leave directly in the timesheet is anyone allowed to do so
+can_i_mark_the_advance_leaves_directly_in_the_timesheet,is anyone permitted to mark the advance leave directly in the timesheet
+can_i_mark_the_advance_leaves_directly_in_the_timesheet,do I have permission to mark the advance leave directly in the timesheet
+can_i_mark_the_advance_leaves_directly_in_the_timesheet,can i mark the advance leaves directly in the timesheet?
+can_i_mark_the_advance_leaves_directly_in_the_timesheet,apply advance leaves directly in the timesheet
+bot_greets_good_afternoon,I hope that your afternoon is good
+bot_greets_good_afternoon,sir have a incredible afternoon
+bot_greets_good_afternoon,wish you very good afternoon
+bot_greets_good_afternoon,hope your afternoon is good
+bot_greets_good_afternoon,sir have a great afternoon
+bot_greets_good_afternoon,sir have a beautiful afternoon
+bot_greets_good_afternoon,a very pleasant afternoon to you
+bot_greets_good_afternoon,good afternoon sir ji
+bot_greets_good_afternoon,a very good afternoon to you
+bot_greets_good_afternoon,very good afternoon sir
+bot_greets_good_afternoon,sir have a magical afternoon
+bot_greets_good_afternoon,sir have a mind blowing afternoon
+bot_greets_good_afternoon,sir have a good afternoon
+bot_greets_good_afternoon,good noon
+bot_greets_good_afternoon,sir have a magnificent afternoon
+bot_greets_good_afternoon,good afternoon
+bot_greets_good_afternoon,good afternoon sir
+bot_greets_good_afternoon,sir have a smashing afternoon
+bot_greets_good_afternoon,sir have a mind boggling afternoon
+bot_greets_good_afternoon,I hope you have a good afternoon
+bot_greets_good_afternoon,sir have a superb afternoon
+bot_compliment_marry,ok then you marry
+bot_compliment_marry,will you marry me
+bot_compliment_marry,will you walk down the aisle with me
+bot_compliment_marry,will you be my bride
+bot_compliment_marry,I want to marry with you
+bot_compliment_marry,can we start our life together
+bot_compliment_marry,will you be my husband
+bot_compliment_marry,it would be really nice if you marry me
+bot_compliment_marry,can you tie knot with me
+bot_compliment_marry,you will marry me
+bot_compliment_marry,would you like to marry me
+bot_compliment_marry,will you have a wedding with me
+bot_greets_namaste,nomoshkar
+bot_greets_namaste,namaste sir
+bot_greets_namaste,pranam
+bot_greets_namaste,greets nomoshkar
+bot_greets_namaste,greets namaste
+bot_greets_namaste,sir greets namaste
+bot_greets_namaste,namashkar
+bot_greets_namaste,namaskar to you and your family
+bot_greets_namaste,namaste
+bot_greets_namaste,namaskar to you
+bot_greets_namaste,namoshkara
+bot_greets_namaste,ram ram
+bot_greets_namaste,namoshkar
+bot_greets_namaste,namaskar how are you
+bot_greets_namaste,namaskar
+what_is_your_name,who are you
+what_is_your_name,what is your name
+what_is_your_name,i want to know your name
+what_is_your_name,may i know your name
+what_is_your_name,please tell me your name
+what_is_your_name,what's your name
+what_is_your_name,your name please
+how_do_i_check_for_applied_leaves,Is there a way how I could check whether the leaves applied in advance are reflecting in My Work?
+how_do_i_check_for_applied_leaves,How do I check on the dashboard page for leaves applied in advance?
+how_do_i_check_for_applied_leaves,How can I check on the dashboard for leaves applied in advance?
+how_do_i_check_for_applied_leaves,How can I check on the dashboard for my applied advance leaves
+how_do_i_check_for_applied_leaves,how do I check my applied advanced leaves on dashboard
+how_do_i_check_for_applied_leaves,I want to check whether the my applied leaves are reflecting in my work
+how_do_i_check_for_applied_leaves,tell me how do I explore that advanced leaves which I have applied are showing in my work
+how_do_i_check_for_applied_leaves,how dashboard can be used to check my applied leaves
+how_do_i_check_for_applied_leaves,is dashboard useful to check advanced leaves that one have applied
+how_do_i_check_for_applied_leaves,how anyone can look for their applied advanced leaves using dashboard
+how_do_i_check_for_applied_leaves,I would like to check whether my advanced leaves are showing in my work
+how_do_i_check_for_applied_leaves,can you please tell me the process to check for my leaves applied in advanced on dashboard
+how_do_i_check_for_applied_leaves,may I know that leaves I applied for are reflecting in my work
+how_do_i_check_for_applied_leaves,can you show me how can I look for my applied advanced leaves are displayed in my work
+how_do_i_check_for_applied_leaves,I have applied for advanced leaves where can I see it in my work
+how_do_i_check_for_applied_leaves,I have applied for advanced leaves where can I see it in my work dashboard
+how_do_i_check_for_applied_leaves,how many leaves have i taken
+how_do_i_check_for_applied_leaves,please show me the number of applied leaves are taken
+how_do_i_check_for_applied_leaves,please show me the number of applied leaves i have taken
+how_to_unlock_timesheet,What is the process to get a weekly timesheet unlocked?
+how_to_unlock_timesheet,what is the procedure to unlock the weekly timesheet
+how_to_unlock_timesheet,how to unlock timesheet I have to make some changes in it
+how_to_unlock_timesheet,tell me how can one unlock weekly timesheet to make chnages after submission
+how_to_unlock_timesheet,can you tell me the process to unlock weekly timesheet
+how_to_unlock_timesheet,I would like to make some alteration in my timesheet please tell me how to unlock it for editing
+how_to_unlock_timesheet,my weekly timesheet got locked after submission how to unlock it
+how_to_unlock_timesheet,do you know how to unlock weekly timesheet
+how_to_unlock_timesheet,is there any way to unlock the weekly timesheet
+garbage_queries,leave me alone
+garbage_queries,solve my query
+garbage_queries,I have a query
+garbage_queries,please answer my query
+garbage_queries,please leave me alone
+garbage_queries,I want to leave
+bot_compliment_like,i like you very much
+bot_compliment_like,is there any problem if I like you
+bot_compliment_like,do you know I like you
+bot_compliment_like,i like you so much
+bot_compliment_like,I really like you
+bot_compliment_like,bot compliment like
+bot_compliment_like,i know like this
+bot_listening,are you listening
+bot_listening,are you listening to what i am saying
+bot_listening,are you listening to what i am saying in english
+bot_listening,Hello can you hear me
+bot_listening,i am waiting for your response
+bot_listening,can you listen to me
+bot_listening,are you able to hear what i am asking
+bot_listening,I am saying something are you even listening
+bot_listening,please tell me if you can hear me
+bot_listening,sure you are listening to me
+bot_listening,hope you are listening to me
+bot_listening,could we communicate in english
+what_happens_when_i_submit_the_timesheet,What happens when I submit the timesheet
+what_happens_when_i_submit_the_timesheet,what will happen when i submit the my work timesheet
+what_happens_when_i_submit_the_timesheet,what happens when i submit the time sheet
+what_happens_when_i_submit_the_timesheet,I had submit the time sheet but now I want to edit some points in that
+what_happens_when_i_submit_the_timesheet,can I edit in timesheet after submission
+what_happens_when_i_submit_the_timesheet,is it possible to edit time sheet after submission
+what_happens_when_i_submit_the_timesheet,need to add some points in time sheet is it possible after submission
+what_happens_when_i_submit_the_timesheet,after submission is it possible to edit the time sheet
+what_happens_when_i_submit_the_timesheet,I want to edit my time sheet but problem is that I have already submited the time sheet
+what_happens_when_i_submit_the_timesheet,Upon submitting the weekly timesheet becomes uneditable
+what_happens_when_i_submit_the_timesheet,what to do after submitting my timesheet
+what_happens_when_i_submit_the_timesheet,what to do if i have submitted my timesheet
+what_happens_when_i_submit_the_timesheet,i have submitted my timesheet now what will happen
+what_happens_when_i_submit_the_timesheet,what are the consequences of submitting my timesheet
+what_happens_when_i_submit_the_timesheet,what are the consequences of submitted my timesheet
+what_happens_when_i_submit_the_timesheet,if i submit the timesheet what will happen
+bot_greets_good_evening,I wish you to have a good evening
+bot_greets_good_evening,good evening
+bot_greets_good_evening,good evening dear friends
+bot_greets_good_evening,have a warm good evening
+bot_greets_good_evening,very good evening sir
+bot_greets_good_evening,have a very good evening
+bot_greets_good_evening,wish you very good evening
+bot_greets_good_evening,hope your evening is good
+bot_greets_good_evening,good evening my lady
+bot_greets_good_evening,have a amazing evening
+bot_greets_good_evening,good evening mam
+bot_greets_good_evening,a very good evening to all
+bot_greets_good_evening,good evening everyone
+bot_greets_good_evening,good evening sir
+bot_greets_good_evening,gud evening
+bot_greets_good_evening,good evening to all
+bot_greets_good_evening,have a awesome evening
+bot_greets_good_evening,have a lovely evening
+bot_greets_good_evening,good evening dear
+bot_greets_good_evening,good evening ladies and gentlemen
+bot_greets_good_evening,have a pleasant evening
+bot_greets_good_evening,happy evening
+bot_greets_good_evening,have a great evening
+bot_greets_good_evening,have a peaceful evening
+bot_greets_good_evening,wish you a very happy evening
+bot_responds_to_goodbye,ta ta
+bot_responds_to_goodbye,Ill say goodbye
+bot_responds_to_goodbye,Keep in touch
+bot_responds_to_goodbye,babe bye for now
+bot_responds_to_goodbye,babe bye
+bot_responds_to_goodbye,cya
+bot_responds_to_goodbye,babe All right then
+bot_responds_to_goodbye,babe later
+bot_responds_to_goodbye,tata
+bot_responds_to_goodbye,it was a pleasure talking to you
+bot_responds_to_goodbye,babe gotta go
+bot_responds_to_goodbye,bye
+bot_responds_to_goodbye,goodbye
+bot_responds_to_goodbye,it was a pleasure meeting you
+bot_responds_to_goodbye,Peace out
+bot_responds_to_goodbye,bye bye
+bot_responds_to_goodbye,see you soon
+bot_responds_to_goodbye,see ya
+bot_responds_to_goodbye,Smell you later
+bot_responds_to_goodbye,bye-bye
+bot_responds_to_goodbye,see you
+bot_responds_to_goodbye,babe farewell
+bot_responds_to_goodbye,I gotta take off
+bot_responds_to_goodbye,Im out
+bot_responds_to_goodbye,babe catch you later
+bot_responds_to_goodbye,see you later
+bot_responds_to_goodbye,see ya tomorrow
+can_i_edit_the_timesheet_post_submission,can i edit the timesheet post submission?
+can_i_edit_the_timesheet_post_submission,am I able to edit the timesheet post submission
+can_i_edit_the_timesheet_post_submission,will I be able to to make changes in the timesheet after submission
+can_i_edit_the_timesheet_post_submission,can i alter the timesheet after submitting it
+can_i_edit_the_timesheet_post_submission,am I allowed to make some changes in timesheet after I have submitted it
+can_i_edit_the_timesheet_post_submission,I have submitted my timesheet do I have permission to edit it
+can_i_edit_the_timesheet_post_submission,please tell me if I can modify timesheet after the submission
+can_i_edit_the_timesheet_post_submission,after submitting timesheet is anyone allowed to make the changes in it
+can_i_edit_the_timesheet_post_submission,I want to edit my timesheet but I have already submitted it
+can_i_edit_the_timesheet_post_submission,is there any chance by which I can edit my already submitted timesheet
+can_i_edit_the_timesheet_post_submission,what is the process of formatting a timesheet after submission
+can_i_edit_the_timesheet_post_submission,What if I'm required to make changes in the timesheet after submission?
+can_i_edit_the_timesheet_post_submission,I have submitted my timesheet and now I want to edit it is there any process to do so
+can_i_edit_the_timesheet_post_submission,how can anyone make changes in weekly timesheet after submitting it
+can_i_edit_the_timesheet_post_submission,I want to make changes in weekly timesheet how can I do that
+can_i_edit_the_timesheet_post_submission,I want to edit my timesheet how to make it possible
+can_i_edit_the_timesheet_post_submission,if I have to edit my timesheet after submission how can I do that
+can_i_edit_the_timesheet_post_submission,if I have forgot to mention some details in my timesheet while submitting how can I change it later
+can_i_edit_the_timesheet_post_submission,am i able to edit the time sheet post submission
+can_i_edit_the_timesheet_post_submission,edit the time sheet post submission
+can_i_edit_the_timesheet_post_submission,how can i edit the timesheet post submission
+can_i_edit_the_timesheet_post_submission,post submission how can i edit the timesheet
+can_i_edit_the_timesheet_post_submission,Can I edit the timesheet after submission
+can_i_edit_the_timesheet_post_submission,editing the timesheet after submission
+how_to_add_or_delete_work_item,How to add new work items
+how_to_add_or_delete_work_item,How to delete any work item
+how_to_add_or_delete_work_item,i want to add work items
+how_to_add_or_delete_work_item,is there a way to add work items
+how_to_add_or_delete_work_item,i want to delete work items
+how_to_add_or_delete_work_item,please guide me to add or delete work items
+how_to_add_or_delete_work_item,How to add multiple tasks under one item any work item
+how_to_add_or_delete_work_item,how to add various tasks in one work item
+how_to_add_or_delete_work_item,can multiple tasks be added in one work item
+how_to_add_or_delete_work_item,multiple tasks under single work item
+how_to_add_or_delete_work_item,i have some other task can i add this in one work item
+do_all_the_pages_in_a_weekly_timesheet_get_submitted_after_clicking_on_submit,Do all the pages in a weekly timesheet get submitted after clicking on Submit
+do_all_the_pages_in_a_weekly_timesheet_get_submitted_after_clicking_on_submit,when i click on submit will all the pages in a weekly time sheet get submitted
+do_all_the_pages_in_a_weekly_timesheet_get_submitted_after_clicking_on_submit,we have to submit every single page of time sheet or it will submitted in single click
+do_all_the_pages_in_a_weekly_timesheet_get_submitted_after_clicking_on_submit,after clicking on submit do all the pages in a weekly timesheet get submitted
+do_all_the_pages_in_a_weekly_timesheet_get_submitted_after_clicking_on_submit,is it possible to submit all pages from time sheet in single click
+do_all_the_pages_in_a_weekly_timesheet_get_submitted_after_clicking_on_submit,can I submit all pages from time sheet in single click
+do_all_the_pages_in_a_weekly_timesheet_get_submitted_after_clicking_on_submit,should I have to submit every single page from timesheet or it will submitted in single click
+do_all_the_pages_in_a_weekly_timesheet_get_submitted_after_clicking_on_submit,after clicking on submit button how many pages from time sheet get submitted
+do_all_the_pages_in_a_weekly_timesheet_get_submitted_after_clicking_on_submit,need to know do all the pages in a weekly timesheet get submitted after clicking on submit
+do_all_the_pages_in_a_weekly_timesheet_get_submitted_after_clicking_on_submit,is it possible to do all the pages in a weekly timesheet get submitted after clicking on submit
+do_all_the_pages_in_a_weekly_timesheet_get_submitted_after_clicking_on_submit,weekly timesheet get submitted after clicking on submit
+bot_greets_how_are_you,are you well
+bot_greets_how_are_you,would you like to tell me how are you
+bot_greets_how_are_you,how are you feeling today
+bot_greets_how_are_you,how is your doing
+bot_greets_how_are_you,hows its going
+bot_greets_how_are_you,I hope you are doing very great
+bot_greets_how_are_you,hey let me know how are you
+bot_greets_how_are_you,hey how are you
+bot_greets_how_are_you,how are you my friend
+bot_greets_how_are_you,let me know how are you
+bot_greets_how_are_you,see you again how are you
+bot_greets_how_are_you,everyone know how are you
+bot_greets_how_are_you,how is your day going
+bot_greets_how_are_you,hey how are you I hope you are doing fine
+bot_greets_how_are_you,I would love to know how are you
+bot_greets_how_are_you,how are you my dear friend
+bot_greets_how_are_you,hello how are you I hope you are good doing great
+bot_greets_how_are_you,hi how are you
+bot_greets_how_are_you,how are you doing
+bot_greets_how_are_you,how are things going on
+bot_greets_how_are_you,hey how are you doing
+bot_greets_how_are_you,how is life treating you
+bot_greets_how_are_you,please tell me how are you
+bot_greets_how_are_you,can you say how are you
+bot_greets_how_are_you,how are you
+bot_greets_how_are_you,all is going well
+bot_greets_how_are_you,can you tell me how are you
+bot_greets_how_are_you,hi my dear friend how are you
+bot_greets_how_are_you,how is your life going on
+bot_greets_how_are_you,may I know how are you feeling today
+bot_greets_how_are_you,how have you been
+bot_greets_how_are_you,how are you right now
+bot_greets_how_are_you,so how are you lately
+bot_greets_how_are_you,tell me how are you
+bot_greets_how_are_you,hey hows your day going
+bot_greets_how_are_you,what have you been doing lately
+bot_greets_how_are_you,sir tell me how are you
+bot_greets_how_are_you,hey how are you I hope you are fine
+bot_greets_how_are_you,are you alright sir
+bot_greets_how_are_you,how was your day
+bot_greets_how_are_you,I want to know how are you
+bot_greets_how_are_you,so can you tell me how are you
+bot_greets_how_are_you,may I know how are you
